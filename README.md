@@ -1,27 +1,23 @@
-# KendoGridNg
+# Kendo Grid
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
+## Bookmark
+https://www.telerik.com/kendo-angular-ui/components/grid/api/GridComponent/#
 
-## Development server
+## Install
+https://www.telerik.com/kendo-angular-ui-develop/components/grid/#toc-installation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+ng add @progress/kendo-angular-grid
+npm install --save rxjs-compat@6
 
-## Code scaffolding
+## Resources
+https://www.telerik.com/blogs/diving-into-the-kendo-ui-grid-with-angular
+https://www.youtube.com/watch?v=AAgAWJEbWIg
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+https://plnkr.co/edit/Yxk166m5R5vFQQy6Us3f?p=preview
+https://plnkr.co/edit/9Vgt9Ug2jx8XXDQPOZdC?p=preview
 
-## Build
+https://www.telerik.com/kendo-angular-ui/components/grid/api/GridComponent/#
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
